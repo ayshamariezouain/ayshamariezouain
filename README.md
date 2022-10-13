@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @ayshamariezouain 🇩🇴🇪🇸🇱🇧 native to Miami but in my heart ❤️ Capitalera from SDQ 
+- 👋 Hi, I’m @ayshamariezouain Miami native but in my heart ❤️ Una capitalera de SDQ 
 - 👀 I’m interested in email development, SFMC and APIs (building my own someday). 
-- 🌱 I’m currently an email designer/developer/manager who loves to learn. 
-- 🌙 At night I'm an artist, runner and skater. 👟🐶💻 #emailgeek 💌 Formerly board #womenofemail 🐐
+- 🌱 During the day: I’m currently an SFMC geek, email designer/developer/manager who loves to learn. 
+- 🌙 At night: I'm an artist, runner and skater. 👟🐶💻 #emailgeek 💌 Formerly board #womenofemail 🐐
 - 💞️ I’m currently in the process of refactoring https://github.com/ayshamariezouain/portfolio
 - 📫 How to reach me ayshamariezouain@gmail.com or in Twitter or LinkedIn.
 
