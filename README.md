@@ -3,7 +3,7 @@
 - 🌱 I’m currently an email designer/developer/manager who loves to learn. 
 - 🌙 At night I'm an artist, runner and skater. 👟🐶💻 #emailgeek 💌 Formerly board @womenofemail 🐐
 - 💞️ I’m currently in the process of refactoring https://github.com/ayshamariezouain/portfolio
-- 📫 How to reach me ayshamariezouain@gmail.com
+- 📫 How to reach me ayshamariezouain@gmail.com or in Twitter or LinkedIn.
 
 <!---
 ayshamariezouain/ayshamariezouain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
