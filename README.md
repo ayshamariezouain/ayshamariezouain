@@ -4,7 +4,7 @@
 - 🌙 At night I am an artist, runner and skater. 👟🐶💻 #emailgeek 💌 Formerly board @womenofemail 🐐
 - 💞️ I’m looking to collaborate on something soon!
 - 📫 How to reach me ayshamariezouain@gmail.com
-- Currently in the process of redoing "https://github.com/ayshamariezouain/portfolio"
+- Currently in the process of refactoring https://github.com/ayshamariezouain/portfolio
 
 <!---
 ayshamariezouain/ayshamariezouain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
