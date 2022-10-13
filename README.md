@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @ayshamariezouain 🇩🇴🇪🇸🇱🇧
+- 👋 Hi, I’m @ayshamariezouain 🇩🇴🇪🇸🇱🇧 native to Miami but in my heart ❤️ Capitalera from SDQ. 
 - 👀 I’m interested in email development, SFMC and APIs. 
 - 🌱 I’m currently an email designer/developer/manager who loves to learn. 
 - 🌙 At night I am an artist, runner and skater. 👟🐶💻 #emailgeek 💌 Formerly board @womenofemail 🐐
-- 💞️ I’m looking to collaborate on something soon!
+- 💞️ I’m currently in the process of refactoring https://github.com/ayshamariezouain/portfolio
 - 📫 How to reach me ayshamariezouain@gmail.com
-- Currently in the process of refactoring https://github.com/ayshamariezouain/portfolio
 
 <!---
 ayshamariezouain/ayshamariezouain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
