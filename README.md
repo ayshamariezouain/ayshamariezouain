@@ -1,7 +1,7 @@
 - 👋 Hello, hello I’m @ayshamariezouain Miami native but in my heart ❤️ ¡Una capitalera, SDQ! 🇩🇴🇪🇸🇱🇧 
 - 👀 I’m interested in email development, SFMC and APIs (building my own someday). 
 - 🌱 During the day: I’m currently an SFMC nerd, email designer/developer/manager who loves to learn. 
-- 🌙 At night: I'm an artist, runner and skater. 👟🐶💻 #emailgeek 💌 Formerly board member of #womenofemail and cofounder of #HowToSFMC. 🐐
+- 🌙 At night: I'm an artist, runner and skater. 👟🐶💻 #emailgeek 💌 Formerly Meetups Chair and board member of #womenofemail and cofounder of #HowToSFMC. 🐐
 - 💞️ I’m currently in the process of refactoring this section: https://github.com/ayshamariezouain/portfolio
 - 💪 If you came from "Notes from the Dev" here is the code section: https://github.com/ayshamariezouain/friendsofemail
 - 📫 How to reach me ayshamariezouain@gmail.com or in Twitter or LinkedIn. Website is in the works!
