@@ -1,4 +1,4 @@
-- 👋 Hello, hello I’m <b>@ayshamariezouain</b> native but in my heart ❤️ Dominican. ¡Una capitalera, SDQ! 
+- 👋 Hello, hello I’m <b>@ayshamariezouain</b> native but in my heart ❤️ Dominican. ¡Una capitalera! 
 - 👀 I’m love to do <b>email development</b>, <b>marketing automation</b>, <b>SFMC</b> and <b>APIs</b> (building my own and making them eventually). 
 - 🌱 <b>During the day</b>: I’m currently an SFMC geek practicing as a <b>Product Owner</b>, <b>email designer/developer/manager</b> who loves to learn and teach. 
 - 🌙 <b>At night</b>: I'm an artist, runner and skater. 👟🐶💻 #emailgeek 💌 <br> <b>Formerly Global Meetups & Events Chair</b> and <b>Board Member of #womenofemail</b> and cofounder of <b>#HowToSFMC</b>. 🐐
