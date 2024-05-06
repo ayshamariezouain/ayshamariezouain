@@ -10,7 +10,7 @@
 <br>
 💪 If you came from "<b>Notes from the Dev</b>" here is the code section: https://github.com/ayshamariezouain/friendsofemail
 <br><br>📫 <b>How to reach me</b>: <b>ayshamariezouain@gmail.com</b> <br>Or on <b>Linkedin</b>:https://www.linkedin.com/in/ayshamariezouain/
-<br><br>✨ Portfolio website is in the works sometime this year!
+<br><br>✨ Portfolio website is in the works sometime this year! In the meantime check it all out below.
 
 <!---
 ayshamariezouain/ayshamariezouain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
