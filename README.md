@@ -5,7 +5,8 @@
 - 💞️ <b>Portfolio</b> - Now in process of refactoring this section but feel free to look: https://github.com/ayshamariezouain/portfolio
 - 💪 If you came from "<b>Notes from the Dev</b>" here is the code section: https://github.com/ayshamariezouain/friendsofemail
 <br><br>📫 <b>How to reach me</b>: <b>ayshamariezouain@gmail.com</b> <br>Or on <b>Linkedin</b>:https://www.linkedin.com/in/ayshamariezouain/
-<br>Portfolio website is in the works!
+<br>
+- ✨ Portfolio website is in the works sometime this year!
 
 <!---
 ayshamariezouain/ayshamariezouain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
