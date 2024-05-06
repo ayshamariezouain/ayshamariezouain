@@ -6,9 +6,9 @@
 <br><br>
 🌙 <b>At night</b>: I'm an artist, runner and skater. 👟🐶💻 #emailgeek 💌 <br> <b>Formerly Global Meetups & Events Chair</b> and <b>Board Member of #womenofemail</b> and cofounder of <b>#HowToSFMC</b>. 🐐
 <br><br>
-💞️ <b>Portfolio</b> - Now in process of refactoring this section but feel free to look: https://github.com/ayshamariezouain/portfolio
-<br><br>
 💪 If you came from "<b>Notes from the Dev</b>" here is the code section: https://github.com/ayshamariezouain/friendsofemail
+<br><br>
+💞️ <b>Portfolio</b> - Now in process of refactoring this section but feel free to look: https://github.com/ayshamariezouain/portfolio
 <br><br>📫 <b>How to reach me</b>: Message me here or.... <b>Linkedin</b>:https://www.linkedin.com/in/ayshamariezouain/
 <br><br>✨ Portfolio website is in the works sometime this year!
 
