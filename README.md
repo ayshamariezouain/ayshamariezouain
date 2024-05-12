@@ -6,7 +6,7 @@
 <br><br>
 🌙 <b>At night</b>: I'm an artist, runner and skater. 👟🐶💻 #emailgeek 💌 <br> <b>Formerly Global Meetups & Events Chair</b> and <b>Board Member of #womenofemail</b> and cofounder of <b>#HowToSFMC</b>. 🐐
 <br><br>
-💪 If you came from "<b>Notes from the Dev</b>" here is the code section: https://github.com/ayshamariezouain/friendsofemail
+💪 If you came from "<b>Notes from the Dev</b>" here is the code section: <br> https://github.com/ayshamariezouain/friendsofemail
 <br><br>
 💞️ <b>Portfolio</b>: https://github.com/ayshamariezouain/portfolio
 <br><br>📫 <b>How to reach me</b>: Reach me via email or at <b>Linkedin</b>. <br> https://www.linkedin.com/in/ayshamariezouain/
