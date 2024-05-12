@@ -1,4 +1,4 @@
-👋 Hello, hello I’m <b>@ayshamariezouain</b> a Miami #305 native but in my heart ❤️ Dominican. ¡Una capitalera! 
+👋 Hello, hello! I’m <b>@ayshamariezouain</b> a Miami #305 native but in my heart ❤️ Dominican. ¡Una capitalera! 
 <br><br>
 ✨ I love to do <b>modern design and acessible email development</b>, <b>work in marketing automation</b>, in particular <b>Salesforce Marketing Cloud</b> and how technologies interact with <b>APIs</b>. 
 <br><br>
