@@ -4,7 +4,7 @@
 <br><br>
 🌱 <b>During the day</b>: I’m currently a <b>Product Owner for Salesforce Marketing Cloud</b> @cnbfl, which means I do <b>email design/development/management/solutions architecting</b>. 
 <br><br>
-🌙 <b>At night</b>: I'm an artist, runner and skater. 👟🐶💻 #emailgeek 💌 <br> <b>Formerly Global Meetups & Events Chair</b> and <b>Board Member of #womenofemail</b> and cofounder of <b>#HowToSFMC</b>. 🐐
+🌙 <b>After hours or at night</b>: I'm an artist, runner and skater. 👟🐶💻 #emailgeek 💌 <br> <b>Formerly Global Meetups & Events Chair</b> and <b>Board Member of #womenofemail</b> and cofounder of <b>#HowToSFMC</b>. 🐐
 <br><br>
 💪 If you came from "<b>Notes from the Dev</b>" here is the code section: <br> https://github.com/ayshamariezouain/friendsofemail
 <br><br>
