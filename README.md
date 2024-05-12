@@ -8,7 +8,7 @@
 <br><br>
 💪 If you came from "<b>Notes from the Dev</b>" here is the code section: https://github.com/ayshamariezouain/friendsofemail
 <br><br>
-💞️ <b>Portfolio</b> - Now in process of refactoring this section but feel free to look: https://github.com/ayshamariezouain/portfolio
+💞️ <b>Portfolio</b>: https://github.com/ayshamariezouain/portfolio
 <br><br>📫 <b>How to reach me</b>: Message me here or.... <b>Linkedin</b>:https://www.linkedin.com/in/ayshamariezouain/
 <br><br>✨ Portfolio website is in the works sometime this year!
 
