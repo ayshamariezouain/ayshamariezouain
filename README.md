@@ -8,9 +8,10 @@
 <br><br>
 💪 If you came from "<b>Notes from the Dev</b>" here is the code section: <br> https://github.com/ayshamariezouain/friendsofemail
 <br><br>
-💞️ <b>Portfolio</b>: https://github.com/ayshamariezouain/portfolio
+💞️ <b>GitHub Portfolio</b>: ✨ Portfolio website is in the works sometime this year! 
+<br><br> https://github.com/ayshamariezouain/portfolio
 <br><br>📫 <b>How to reach me</b>: Reach me via email or at <b>Linkedin</b>. <br> https://www.linkedin.com/in/ayshamariezouain/
-<br><br>✨ Portfolio website is in the works sometime this year!
+
 
 <!---
 ayshamariezouain/ayshamariezouain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
