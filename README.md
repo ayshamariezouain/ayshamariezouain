@@ -6,7 +6,7 @@
 <br><br>
 🌙 <b>After hours or at night</b>: I'm an artist, runner and skater. 👟🐶💻 #emailgeek 💌 <br> <b>Formerly Global Meetups & Events Chair</b> + <b>Board Member of #womenofemail</b> and cofounder of <b>#HowToSFMC</b>. 🐐
 <br><br>
-💪 If you came from "<b>Notes from the Dev</b>" here is the code section: <br> https://github.com/ayshamariezouain/friendsofemail
+💪 If you came from "<b>Notes from the Dev</b>" from Email on Acid's interview here is the code section: <br> https://github.com/ayshamariezouain/friendsofemail
 <br><br>
 ✨ <b>GitHub Portfolio</b>: An overall marketing tech portfolio website is in the works sometime this year! 
 <br> https://github.com/ayshamariezouain/portfolio
