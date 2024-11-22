@@ -12,6 +12,12 @@
 <br> https://github.com/ayshamariezouain/portfolio
 <br><br>📫 <b>How to reach me</b>: Reach me via email or at <b>Linkedin</b>. <br> https://www.linkedin.com/in/ayshamariezouain/
 <br><br>✨ <b>Skills</b>: [https://skillicons.dev/icons?i=all https://skillicons.dev/icons?i=all](https://skillicons.dev/icons?i=all)
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,apple,html,css,figma,visualstudio,azure,bootstrap,wordpress" />
+  </a>
+</p>
 <!---
 ayshamariezouain/ayshamariezouain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
