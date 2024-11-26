@@ -11,7 +11,7 @@
 ✨ <b>GitHub Portfolio</b>: An overall marketing tech portfolio website is in the works sometime this year! 
 <br> https://github.com/ayshamariezouain/portfolio
 <br><br>📫 <b>How to reach me</b>: Reach me via email or at <b>Linkedin</b>. <br> https://www.linkedin.com/in/ayshamariezouain/
-<br><br>✨ <b>Skills</b>: [https://skillicons.dev/icons?i=all https://skillicons.dev/icons?i=all](https://skillicons.dev/icons?i=all)
+<br><br>✨ <b>Skills</b>: <!---[https://skillicons.dev/icons?i=all https://skillicons.dev/icons?i=all](https://skillicons.dev/icons?i=all)--->
 
 <p align="left">
   <a href="https://skillicons.dev">
