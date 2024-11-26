@@ -15,7 +15,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,apple,html,css,figma,visualstudio,azure,bootstrap,wordpress" />
+    <img src="https://skillicons.dev/icons?i=apple,html,css,figma,github,visualstudio,azure,bootstrap,wordpress,windows,webflow" />
   </a>
 </p>
 <!---
