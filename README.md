@@ -1,6 +1,6 @@
 👋 Hello, hello! I’m <b>@ayshamariezouain</b> a Miami #305 native but in my heart ❤️ Dominican. ¡Una capitalera! 
 <br><br>
-✨ I love to do <b>modern design and acessible email development</b>, <b>work in marketing automation</b>, in particular <b>Salesforce Marketing Cloud</b> and how technologies interact with <b>APIs</b>. 
+✨ I love to do <b>modern design and acessible email development</b>, <b>work in marketing automation</b>, in particular <b>Salesforce Marketing Cloud</b> and how marketing technologies interact with <b>data</b>. 
 <br><br>
 🌱 <b>During the day</b>: I’m currently a <b>Product Owner of Salesforce Marketing Cloud</b> @cnbfl part of the Enterprise Architecture team, which means I do <b>email design/development/management/solutions architecting</b>. 
 <br><br>
