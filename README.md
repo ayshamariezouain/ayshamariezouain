@@ -1,4 +1,4 @@
-👋 Hello, hello! I’m <b>@ayshamariezouain</b> a Miami #305 native but ❤️ <b>Dominicana y Española</b>.  ¡WEPA! ¡Una capitalera! 
+👋 Hello, hello! I’m <b>@ayshamariezouain</b> a Miami #305 native but ❤️ <b>Dominicana y Española</b>.
 <br><br>
 ✨ I love to do <b>modern design and acessible email development</b>, study ethical data practices, <b>work in marketing automation</b>, in particular <b>Salesforce Marketing Cloud</b> and how marketing technologies interact with <b>data</b>. 
 <br><br>
