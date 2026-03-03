@@ -2,7 +2,7 @@
 <br><br>
 ✨ Love to work in <b>modern design and acessible email development</b>, study ethical data practices, <b>work in marketing automation</b>, in particular <b>Salesforce Marketing Cloud</b> and how marketing technologies interact with <b>data</b>. 
 <br><br>
-🌱 <b>During the Day Time</b>: I’m currently a <b>Product Owner/Solution Architect of Salesforce Marketing Cloud</b> @cnbfl part of the Enterprise Architecture team, which means I do <b>email design/development/management/solutions architecting</b>. 
+🌱 <b>During the Day Time</b>: I’m currently a Product Owner/Solution Architect for Salesforce Marketing Cloud @cnbfl, part of the Enterprise Architecture team. I get to wear many fun hats, from email design and development to overall marketing solutions architecture. Right now, I’m diving into marketing tech evaluations and expanding our email capabilities, SMS, WhatsApp, with hands‑on work in Databricks and Azure.
 <br><br>
 🌙 <b>During the After Hours</b>: I'm an visual mixed media artist, digital illustrator, runner and skater. 👟🐶💻 #emailgeek 💌 <br><br>
  🐐 <b>Formerly Global Meetups & Events Chair</b> + <b>Board Member of #womenofemail</b> and one of the cofounders of <b>#HowToSFMC</b>.
